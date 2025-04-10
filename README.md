@@ -98,11 +98,4 @@ Let’s connect!
 - **Practical utilities** that can be extended for real-world use.  
 - **Clean, documented code** suitable for beginners and intermediate developers.  
 
----
 
-This README is designed to:  
-✅ **Attract recruiters** with clear skills demonstration  
-✅ **Help users** quickly understand and run the project  
-✅ **Encourage contributions** with a friendly tone  
-
-Would you like to add any specific badges (e.g., Python version, build status) or a project roadmap?
