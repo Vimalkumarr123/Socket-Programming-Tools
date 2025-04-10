@@ -93,9 +93,4 @@ Let’s connect!
 
 --- 
 
-### **Why This Project?**  
-- **Great for learning** socket programming and networking basics.  
-- **Practical utilities** that can be extended for real-world use.  
-- **Clean, documented code** suitable for beginners and intermediate developers.  
-
 
