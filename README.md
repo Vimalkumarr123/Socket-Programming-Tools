@@ -1,4 +1,4 @@
-# **Network Tools Suite** 🚀  
+# **Socket-Programming-Tools** 🚀  
 
 *A Python-based collection of networking utilities demonstrating socket programming fundamentals, from port scanning to multi-client chat applications.*  
 
@@ -29,8 +29,8 @@ This project implements essential network tools using Python's `socket` module, 
 ### **Installation**  
 Clone the repository:  
 ```bash
-git clone https://github.com/your-username/network-tools-suite.git
-cd network-tools-suite
+git clone git@github.com:Vimalkumarr123/Socket-Programming-Tools.git
+cd Socket-Programming-Tools
 ```  
 
 ### **Usage**  
